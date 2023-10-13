@@ -15,11 +15,5 @@
 
 Contributions to the project are welcome. If you find any issues or want to suggest improvements, please feel free to open an issue or a pull request.
 
-## License
-
-
-A
-A
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
